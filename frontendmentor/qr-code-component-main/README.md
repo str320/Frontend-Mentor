@@ -42,7 +42,7 @@ Cleaned up unnecessary comments and code.
 This project helped me gain a better understanding of HTML & CSS fundamentals, as well as how to structure and style a simple component effectively. Here are some key takeaways:
 
 1️⃣ Structuring HTML Properly
-How to create a semantic and organized HTML structure using <main>, <div>, <img>, <h1>, and <p>.
+How to create a semantic and organized HTML structure using `<main>, <div>, <img>, <h1>, and <p>`.
 The importance of using meaningful class names to make styling easier.
 
 2️⃣ Using CSS for Layout & Styling
