@@ -12,9 +12,13 @@ CSS3 – for styling, layout, and responsiveness.
 🎯 Project Features
 
 ✅ Custom Design System using CSS variables (:root) for colors, font sizes, and spacing.
+
 ✅ Centered Layout using display: flex; justify-content: center; align-items: center;.
+
 ✅ Hover Effects for interactive elements like buttons and headings.
+
 ✅ Mobile Responsive design with a media query for smaller screens.
+
 ✅ Box Shadow & Borders for a modern card appearance.
 
 📷 Project Preview
@@ -65,6 +69,7 @@ Used media queries to adjust the card’s width on smaller screens:
     .container {
         max-width: 327px;
     }
-}```
+}
+```
 
 Ensured that text and spacing remain readable on mobile devices.
