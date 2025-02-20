@@ -39,6 +39,7 @@ Ensured consistent spacing and alignment across elements.
 Cleaned up unnecessary comments and code.
 
 📚 What I Learned from This Project
+
 This project helped me gain a better understanding of HTML & CSS fundamentals, as well as how to structure and style a simple component effectively. Here are some key takeaways:
 
 1️⃣ Structuring HTML Properly
@@ -65,6 +66,7 @@ The importance of cleaning up unused CSS properties and comments for readability
 How to structure a README file to document my project properly.
 
 🚀 Next Steps
+
 Explore CSS Grid for layout alternatives.
 Improve responsiveness for different screen sizes.
 Add hover effects to make the design more interactive.
