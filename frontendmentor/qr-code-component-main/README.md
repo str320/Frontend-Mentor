@@ -16,7 +16,7 @@ CSS: For styling, layout, and responsiveness.
 1️⃣ Planning & Setup
 Defined the project goal: Creating a centered QR code card.
 Created the necessary files: index.html and style.css.
-Structured the HTML with a <main> container, an image, a heading, and a paragraph.
+Structured the HTML with a `<main>` container, an image, a heading, and a paragraph.
 
 2️⃣ Styling & Layout
 CSS Reset: Applied a basic reset to remove default browser styles.
@@ -52,8 +52,8 @@ The benefits of using a design system with CSS variables `(:root {})` to make st
 How to properly style a container with padding, margins, background colors, and rounded corners.
 
 3️⃣ Centering Elements with Flexbox
-The best way to center a card vertically and horizontally using display: flex; justify-content: center; align-items: center;.
-How height: 100vh; on <main> helps the container take up the full screen height.
+The best way to center a card vertically and horizontally using `display: flex; justify-content: center; align-items: center;`.
+How `height: 100vh;` on `<main>` helps the container take up the full screen height.
 
 4️⃣ Debugging & Refinement
 The importance of checking for typos `(like --clr-card-backgroung instead of --clr-card-background)`.
